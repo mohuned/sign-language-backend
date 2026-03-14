@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+numpy
+mysql-connector-python
+psycopg2-binary
